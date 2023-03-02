@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola comunidad de Clubhouse👋
 
 <!--
-**ChatHouse/chathouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Es un honor presentarles a asistente conversaional para las salas de Clubhouse, su nombre es: 🤖ChatHouse
 
-Here are some ideas to get you started:
+Su función es simple: 🗣 Llevarlo a una sala y conversar con el en dinamicas sociales. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A continuación les comparto las instrucciones para:
+
+Instalación de recursos
+Codigo fuente para llamar a la API de OpenAI
+Directrices para asignación de voz
+Recomendaciones y notas importantes. 
+
+Para iniciar es importante realizar las primeras configuraciones en la creación de carpeta, aquí tienen las instrucciones -> https://telegra.ph/Preparación-del-espacio-de-trabajo-03-02
+
 -->
