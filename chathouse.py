@@ -5,7 +5,7 @@ import openai
 #2️⃣ Realizando la llamada a la API de GPT3: ❗ Intrucciones para acceder a nuestra clave secreta de la API: https://telegra.ph/Solicitud-de-API---OpenAI-03-02
 
 #❗NOTA. PEGAR entre las comillas la clave secreta generada. ▶ Ejemplo: openai.api_key = "SK - ..."
-openai.api_key= "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"
+openai.api_key= ""
 
 #3️⃣ Creando nuestro codigo para llamar a la API y generar la cadena conversacional
 while True:
