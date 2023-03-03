@@ -14,4 +14,9 @@ Recomendaciones y notas importantes.
 
 Para iniciar es importante realizar las primeras configuraciones en la creación de carpeta, aquí tienen las instrucciones -> https://telegra.ph/Preparación-del-espacio-de-trabajo-03-02
 
+Disfruten en proyecto y usenlo en sus salas de la comunidad.
+
+ATTE. 
+🖖CarlosRZ
+
 -->
