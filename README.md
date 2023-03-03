@@ -1,6 +1,6 @@
 ### Hola comunidad de Clubhouse👋
 
-<!--
+
 Es un honor presentarles a asistente conversaional para las salas de Clubhouse, su nombre es: 🤖ChatHouse
 
 Su función es simple: 🗣 Llevarlo a una sala y conversar con el en dinamicas sociales. 
@@ -19,4 +19,4 @@ Disfruten en proyecto y usenlo en sus salas de la comunidad.
 ATTE. 
 🖖CarlosRZ
 
--->
+
